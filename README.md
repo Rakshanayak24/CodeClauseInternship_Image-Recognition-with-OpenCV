@@ -59,4 +59,4 @@ Press `q` in the display window to quit. Processed images are saved to `output/`
 - Face detection uses OpenCV's Haar cascade file path (`cv2.data.haarcascades`). If your `opencv-python` installation doesn't include cascades, face detection will show an informative error.
 - This is a simple educational project to get hands-on with OpenCV image processing basics.
 
-Enjoy! 🎯
+
